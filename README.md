@@ -1,1 +1,1 @@
-Module for file handling.
+Package to create/append/read files.
